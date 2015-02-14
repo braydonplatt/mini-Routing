@@ -6,4 +6,5 @@ app.controller('productsCtrl', function($scope, $routeParams, productService){
   } else if ($routeParams.id === 'socks'){
     $scope.productData = productService.sockData;
   }
-})
+});
+

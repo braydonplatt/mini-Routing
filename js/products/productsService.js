@@ -31,7 +31,7 @@ app.service('productService', function(){
       size: 'S'
     },
     {
-      type: 'Nike',
+      type: 'Nike Elite',
       color: 'White',
       size: 'M'
     },
